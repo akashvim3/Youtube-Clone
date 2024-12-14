@@ -41,7 +41,7 @@ Follow these steps to run the project locally:
    ```
 
 2. **Visit the App**:
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
+   Open [http://localhost:3000](https://akashvim3.github.io/Youtube-Clone/) in your browser.
 
 ---
 
